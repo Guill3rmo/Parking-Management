@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="company" label="Company" language="en" table="x_168950_parking_parking_assingment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <help/>
+            <hint/>
+            <label>Company</label>
+            <language>en</language>
+            <name>x_168950_parking_parking_assingment</name>
+            <plural>Companies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 15:27:33</sys_created_on>
+            <sys_id>3401df464f32030061e0b5e18110c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Company</sys_name>
+            <sys_package display_value="Parking Management" source="x_168950_parking">40da8f424f32030061e0b5e18110c779</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Parking Management">40da8f424f32030061e0b5e18110c779</sys_scope>
+            <sys_update_name>sys_documentation_x_168950_parking_parking_assingment_company_en</sys_update_name>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 15:27:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

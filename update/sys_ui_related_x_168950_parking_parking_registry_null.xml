@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_168950_parking_parking_registry" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Parking Registry - Default view" name="x_168950_parking_parking_registry" related_list="NULL" sys_domain="global" view="Default view">dfe2df864f32030061e0b5e18110c7a5</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_168950_parking_parking_assingment.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 15:35:54</sys_created_on>
+            <sys_id>5fe2df864f32030061e0b5e18110c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 15:35:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Parking Registry - Default view</calculated_name>
+            <filter/>
+            <name>x_168950_parking_parking_registry</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 15:35:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfe2df864f32030061e0b5e18110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parking Registry - Default view</sys_name>
+            <sys_package display_value="Parking Management" source="x_168950_parking">40da8f424f32030061e0b5e18110c779</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Parking Management">40da8f424f32030061e0b5e18110c779</sys_scope>
+            <sys_update_name>sys_ui_related_x_168950_parking_parking_registry_null</sys_update_name>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 15:35:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

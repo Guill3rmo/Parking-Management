@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="parking_assingment_state" table="x_168950_parking_parking_assingment" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>parking_assingment_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_168950_parking_parking_assingment</name>
+            <sequence>0</sequence>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 16:07:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>571a578a4f32030061e0b5e18110c757</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 16:07:46</sys_updated_on>
+            <value>Draft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>parking_assingment_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Active</label>
+            <language>en</language>
+            <name>x_168950_parking_parking_assingment</name>
+            <sequence>1</sequence>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 15:58:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc2853864f32030061e0b5e18110c7d5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 16:07:51</sys_updated_on>
+            <value>Active</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>parking_assingment_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Expired</label>
+            <language>en</language>
+            <name>x_168950_parking_parking_assingment</name>
+            <sequence>2</sequence>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 15:58:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>702853864f32030061e0b5e18110c7d7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 16:07:53</sys_updated_on>
+            <value>Expired</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>parking_assingment_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_168950_parking_parking_assingment</name>
+            <sequence>3</sequence>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 15:58:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>302853864f32030061e0b5e18110c7d8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 16:07:56</sys_updated_on>
+            <value>Cancelled</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>parking_assingment_state</element>
+            <name>x_168950_parking_parking_assingment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 15:58:40</sys_created_on>
+            <sys_id>9d7e589a4fb2030061e0b5e18110c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>parking_assingment_state</sys_name>
+            <sys_package display_value="Parking Management" source="x_168950_parking">40da8f424f32030061e0b5e18110c779</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Parking Management">40da8f424f32030061e0b5e18110c779</sys_scope>
+            <sys_update_name>sys_choice_x_168950_parking_parking_assingment_parking_assingment_state</sys_update_name>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 15:58:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

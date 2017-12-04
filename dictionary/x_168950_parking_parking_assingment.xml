@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Parking Assingment" max_length="40" name="x_168950_parking_parking_assingment" type="collection">
+        <element label="Company" max_length="32" name="company" reference="core_company" type="reference"/>
+        <element label="Employees" max_length="4000" name="employees" reference="sys_user" type="glide_list"/>
+        <element label="Expiration Date" max_length="40" name="expiration_date" type="glide_date"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="translated_text"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Parent" max_length="32" name="parent" reference="x_168950_parking_parking_registry" type="reference"/>
+        <element choice="1" label="Parking Assingment State" mandatory="true" max_length="40" name="parking_assingment_state" type="choice">
+            <choice>
+                <element label="Draft" sequence="0" value="Draft"/>
+                <element label="Active" sequence="1" value="Active"/>
+                <element label="Expired" sequence="2" value="Expired"/>
+                <element label="Cancelled" sequence="3" value="Cancelled"/>
+            </choice>
+        </element>
+        <element label="Parking Location info" max_length="360" name="parking_location_info" type="string"/>
+        <element label="QR Code" max_length="40" name="qr_code" type="user_image"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Additional Comments or News" max_length="4000" name="u_parking_updates" type="journal"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+        <index name="index2">
+            <element name="company"/>
+        </index>
+        <index name="index3">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

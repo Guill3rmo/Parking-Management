@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="033cd7ca4f32030061e0b5e18110c731" sys_domain="global" table="x_168950_parking_parking_assingment" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 16:16:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>473cd7ca4f32030061e0b5e18110c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_168950_parking_parking_assingment" name="x_168950_parking_parking_assingment" sys_domain="global" view="Default view">033cd7ca4f32030061e0b5e18110c731</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_168950_parking_parking_assingment" sys_domain="global" view="Default view">4a219f464f32030061e0b5e18110c7e3</sys_ui_section>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 16:16:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 16:16:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>433cd7ca4f32030061e0b5e18110c734</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_168950_parking_parking_assingment" name="x_168950_parking_parking_assingment" sys_domain="global" view="Default view">033cd7ca4f32030061e0b5e18110c731</sys_ui_form>
+            <sys_ui_section caption="Parking Information" display_value="Parking Information" name="x_168950_parking_parking_assingment" sys_domain="global" view="Default view">cb3cd7ca4f32030061e0b5e18110c72f</sys_ui_section>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 16:16:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 16:16:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c73cd7ca4f32030061e0b5e18110c7c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_168950_parking_parking_assingment" name="x_168950_parking_parking_assingment" sys_domain="global" view="Default view">033cd7ca4f32030061e0b5e18110c731</sys_ui_form>
+            <sys_ui_section caption="Additional Details" display_value="Additional Details" name="x_168950_parking_parking_assingment" sys_domain="global" view="Default view">c33cd7ca4f32030061e0b5e18110c730</sys_ui_section>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 16:16:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_168950_parking_parking_assingment</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>gmorales</sys_created_by>
+            <sys_created_on>2017-12-04 16:16:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>033cd7ca4f32030061e0b5e18110c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_168950_parking_parking_assingment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Parking Management" source="x_168950_parking">40da8f424f32030061e0b5e18110c779</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Parking Management">40da8f424f32030061e0b5e18110c779</sys_scope>
+            <sys_update_name>sys_ui_form_sections_033cd7ca4f32030061e0b5e18110c731</sys_update_name>
+            <sys_updated_by>gmorales</sys_updated_by>
+            <sys_updated_on>2017-12-04 16:16:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
